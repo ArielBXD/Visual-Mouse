@@ -1,6 +1,6 @@
 # Visual-Mouse
 
-the program used mainly for streamers who want to show their mouse during a gameplay
+The program used mainly for streamers who want to show their mouse during a gameplay
 
 used JRE JavaSE-14
 
